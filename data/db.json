@@ -1,0 +1,17 @@
+{
+    "blogs":[
+        {
+            "title": "Liam's page ",
+            "body": "My name is Liam AKA Black monsterz i am in a clan in call of duty",
+            "auhor": "Liam",
+            "id": 1
+        },
+        {
+            "title": "Nina's Page ",
+            "body": "I am from austrailier i play call of duty, but i play other games too ammm🤔 there's his guy i like 🤭🙃 he is from Nigeria his name is Liam Lorenzo",
+            "auhor": "Nina",
+            "id": 2
+
+        }
+    ]
+}
